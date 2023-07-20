@@ -32,7 +32,7 @@ git clone https://github.com/himanshumahajan138/Image-To-Pencil-Sketch.git
 2. Change directory to the project folder:
 
 ```bash
-cd Image-To-Pencil-Sketch
+cd Himanshu_sketch
 ```
 
 3. Run the conversion script:
