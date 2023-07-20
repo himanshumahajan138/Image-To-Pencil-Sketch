@@ -1,4 +1,4 @@
-# LGMVIP_DataScience_2
+# LGMVIP-DataScience-2
 # Image to Pencil Sketch Conversion Project
 
 ## Introduction
