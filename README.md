@@ -32,7 +32,7 @@ git clone https://github.com/himanshumahajan138/LGMVIP-DataScience-2.git
 2. Change directory to the project folder:
 
 ```bash
-cd Himanshu_sketch
+cd LGMVIP-DataScience-2/Himanshu_sketch
 ```
 
 3. Run the conversion script:
