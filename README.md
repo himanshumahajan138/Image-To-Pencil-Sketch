@@ -26,7 +26,7 @@ pip install opencv-python matplotlib
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/himanshumahajan138/Image-To-Pencil-Sketch.git
+git clone https://github.com/himanshumahajan138/LGMVIP-DataScience-2.git
 ```
 
 2. Change directory to the project folder:
