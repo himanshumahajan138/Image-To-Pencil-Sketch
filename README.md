@@ -15,10 +15,10 @@ This project aims to convert a regular image into a pencil sketch using the popu
 
 ## Installation
 
-To run the project locally, you need to have Python and OpenCV installed on your machine. If you don't have them already, you can install them using the following commands:
+To run the project locally, you need to have Python, Matplotlib and OpenCV installed on your machine. If you don't have them already, you can install them using the following commands:
 
 ```bash
-pip install opencv-python
+pip install opencv-python matplotlib
 ```
 
 ## Usage
